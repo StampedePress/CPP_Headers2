@@ -1,2 +1,3 @@
 # CPP_Headers2
-Plura
+PluraalSight C++ Course,
+Lesson on breaking a program into different files through the use of headers. 
